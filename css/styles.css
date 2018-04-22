@@ -1,0 +1,30 @@
+#coach:hover{
+  text-decoration: underline;
+  background-color: black;
+  color: white;
+}
+
+#coach {
+  cursor: pointer;
+}
+
+#team:hover{
+  text-decoration: underline;
+  background-color: black;
+  color: white;
+}
+
+#team {
+  cursor: pointer;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.red {
+  background-color: lightpink;
+}
