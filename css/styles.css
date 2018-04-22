@@ -1,6 +1,6 @@
 #coach:hover{
   text-decoration: underline;
-  background-color: black;
+  background-color: lightpink;
   color: white;
 }
 
@@ -10,7 +10,7 @@
 
 #team:hover{
   text-decoration: underline;
-  background-color: black;
+  background-color: lightblue;
   color: white;
 }
 
